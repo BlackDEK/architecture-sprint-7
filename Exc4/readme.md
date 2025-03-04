@@ -10,3 +10,6 @@
 | cluster-editor | cluster-role | кластерные ресурсы, pods, namespace, nodes, persistent-volumes: create, delete, update | admin, devops |
 | cluster-observer | cluster-role | кластерные ресурсы, pods, namespace, nodes, persistent-volumes: get, list, watch | admin, devops |
 
+## Как запустить
+
+1. Выполнить файл `start.sh`
